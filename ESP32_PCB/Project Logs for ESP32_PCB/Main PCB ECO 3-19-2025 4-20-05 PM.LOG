@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J1 Old Footprint=GCT_USB4500-03-0-A_REVA1 New Footprint=GCT_USB4105-GF-A
+Change Component Comment : Designator=J1 Old Comment=USB4500-03-0-A_REVA1 New Comment=USB4105-GF-A
+Change component parameters: Designator = "J1" ("J1"); Footprint = "GCT_USB4500-03-0-A_REVA1"; UniqueID = "\UMTQPUHN" ("\UMTQPUHN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'GCT'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "USB4105-GF-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
